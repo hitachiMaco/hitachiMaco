@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Student from Beijing University Of Post and Telecommunications（BUPT）
+
+よろしくお願いいたします。
 <!--
 **hitachiMaco/hitachiMaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
